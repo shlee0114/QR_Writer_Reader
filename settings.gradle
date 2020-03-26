@@ -1,0 +1,2 @@
+rootProject.name='QR_Writer_Reader'
+include ':app'
